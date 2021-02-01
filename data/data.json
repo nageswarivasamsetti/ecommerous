@@ -1,0 +1,33 @@
+{
+	"mobiles":[
+		{ 
+			"name":"nokie",
+			"image":"/imgs/1.jpeg",
+			"price":16000,
+			"offerprice":15999
+		},{
+			"name":"samsong",
+			"image":"/imgs/2.jpeg",
+			"price":14000,
+			"offerprice":13999
+		},{
+			"name":"micromax",
+			"image":"/imgs/3.jpeg",
+			"price":10000,
+			"offerprice":3999
+		},{
+		"name":"apple",
+	    "image":"/imgs/4.jpeg",
+        "price":26000,
+        "offerprice":26000
+        },{
+ 	
+		"name":"celkon",
+	    "image":"/imgs/5.jpeg",
+        "price":28000,
+        "offerprice":2000
+        }
+    ]
+}
+
+     	
